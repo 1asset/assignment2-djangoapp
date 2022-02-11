@@ -56,3 +56,8 @@ python manage.py migrate
 ```
 
 # Examples
+![Снимок экрана (17)](https://user-images.githubusercontent.com/82859085/153580387-05ba935e-ca21-494f-9571-8650b73b3c40.png)
+![Снимок экрана (14)](https://user-images.githubusercontent.com/82859085/153580414-233380d4-c02c-48cc-91d3-14e55e433d2e.png)
+![Снимок экрана (15)](https://user-images.githubusercontent.com/82859085/153580471-0d0b08f8-1310-47ff-a9c8-b032ad365450.png)
+![Снимок экрана (16)](https://user-images.githubusercontent.com/82859085/153580483-31e1db2e-7f9f-49a8-bb76-e1563d8af4f4.png)
+
